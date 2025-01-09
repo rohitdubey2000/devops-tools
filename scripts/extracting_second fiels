@@ -3,4 +3,17 @@ df -h | awk '{print $3}'
 df -h | awk '{print $4}'
 df -h | awk '{print $2}'
 df -h | awk '{print $3}'
+df -h | awk '{print $2}'
+df -h | awk '{print $3}'
 df -h | awk '{print $4}'
+df -h | awk '{print $2}'
+df -h | awk '{print $3}'
+df -h | awk '{print $4}'df -h | awk '{print $4}'
+git merge rohit-test
+git status
+git checkout rohit-test
+git branch
+git merge master
+git status
+git pull origin rohit-test
+git pull origin master
